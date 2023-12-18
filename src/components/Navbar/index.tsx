@@ -63,6 +63,21 @@ const Navbar = () => {
             <li>
               <NavLink to={'/unity'} activeClassName="active" className="space">Unity</NavLink>
             </li>
+            <li>
+              <NavLink to={'/AWS'} activeClassName="active" className="space">AWS</NavLink>
+            </li>
+            <li>
+              <NavLink to={'/tso'} activeClassName="active" className="space">TSO</NavLink>
+            </li>
+            <li>
+              <NavLink to={'/cics'} activeClassName="active" className="space">CICS</NavLink>
+            </li>
+            <li>
+              <NavLink to={'/spring-security'} activeClassName="active" className="space">Spring Security</NavLink>
+            </li>
+            <li>
+              <NavLink to={'/javafx'} activeClassName="active" className="space">JavaFX</NavLink>
+            </li>
           </ul>
         </div>
       </div>
