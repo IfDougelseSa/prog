@@ -61,6 +61,15 @@ import ARRAYSJAVA from "pages/Java/arrays";
 import Introduction from "pages/Java/classObjectsMethodsString";
 import Modulo3 from "pages/AWS/modulo3";
 import Control1 from "pages/Java/control1";
+import Modulo10 from "pages/AWS/modulo10";
+import Modulo11 from "pages/AWS/modulo11";
+import Modulo4 from "pages/AWS/modulo4";
+import Modulo5 from "pages/AWS/modulo5";
+import Modulo6 from "pages/AWS/modulo6";
+import Modulo7 from "pages/AWS/modulo7";
+import Modulo8 from "pages/AWS/modulo8";
+import Modulo9 from "pages/AWS/modulo9";
+import Control2 from "pages/Java/control2";
 
 
 const Routes = () => (
@@ -212,6 +221,9 @@ const Routes = () => (
 			<Route path="/java/control1">
 				<Control1 />
 			</Route>
+			<Route path="/java/control2">
+				<Control2 />
+			</Route>
 			{/* Angular start pages */}
 			<Route path="/angular" exact>
 				<Angular />
@@ -233,14 +245,38 @@ const Routes = () => (
 			<Route path="/aws" exact>
 				<AWS />
 			</Route>
-			<Route path="/aws/primeiro-modulo">
+			<Route path="/aws/first-module">
 				<Modulo1 />
 			</Route>
-			<Route path="/aws/segundo-modulo">
+			<Route path="/aws/second-module">
 				<Modulo2 />
 			</Route>
-			<Route path="/aws/terceiro-modulo">
+			<Route path="/aws/third-module">
 				<Modulo3 />
+			</Route>
+			<Route path="/aws/fourth-module">
+				<Modulo4 />
+			</Route>
+			<Route path="/aws/fifth-module">
+				<Modulo5 />
+			</Route>
+			<Route path="/aws/sixth-module">
+				<Modulo6 />
+			</Route>
+			<Route path="/aws/seventh-module">
+				<Modulo7 />
+			</Route>
+			<Route path="/aws/eighth-module">
+				<Modulo8 />
+			</Route>
+			<Route path="/aws/ninth-module">
+				<Modulo9 />
+			</Route>
+			<Route path="/aws/tenth-module">
+				<Modulo10 />
+			</Route>
+			<Route path="/aws/eleventh-module">
+				<Modulo11 />
 			</Route>
 			{/* TSO start pages */}
 			<Route path="/tso" exact>

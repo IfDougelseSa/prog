@@ -128,6 +128,9 @@ const Modulo3 = () => {
 						quais são as operações mais adequadas para gerenciar sua pilha e
 						reverte as alterações automaticamente se detecta erros.
 					</p>
+
+					<h4>AWS CloudFront</h4>
+					<p>Rede de entregadores de serviços.</p>
 				</div>
 			</div>
 		</div>

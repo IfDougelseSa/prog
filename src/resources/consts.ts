@@ -31,6 +31,7 @@ export const JAVA_LIST = [
 	{ link: "/java/arrays-arrayslists", titleLink: "Array e ArrayLists" },
 	{ link: "/java/introduction", titleLink: "Introdução a classes, objetos, métodos e strings" },
 	{ link: "/java/control1", titleLink: "Instruções de controle parte 1" },
+	{ link: "/java/control2", titleLink: "Instruções de controle parte 2" },
 ];
 
 
@@ -85,15 +86,17 @@ export const CSS_LIST = [
 
 export const AWS_LIST = [
 	{ link: "/aws", titleLink: "AWS Cloud Practitioner" },
-	{ link: "/aws/primeiro-modulo", titleLink: "Módulo 1" },
-	{ link: "/aws/segundo-modulo", titleLink: "Módulo 2" },
-	{ link: "/aws/terceiro-modulo", titleLink: "Módulo 3" },
-	{ link: "/aws/quarto-modulo", titleLink: "Módulo 4" },
-	{ link: "/aws/quinto-modulo", titleLink: "Módulo 5" },
-	{ link: "/aws/sexto-modulo", titleLink: "Módulo 6" },
-	{ link: "/aws/setimo-modulo", titleLink: "Módulo 7" },
-	{ link: "/aws/oitavo-modulo", titleLink: "Módulo 8" },
-	{ link: "/aws/nono-modulo", titleLink: "Módulo 9" },
+	{ link: "/aws/first-module", titleLink: "Módulo 1" },
+	{ link: "/aws/second-module", titleLink: "Módulo 2" },
+	{ link: "/aws/third-module", titleLink: "Módulo 3" },
+	{ link: "/aws/fourth-module", titleLink: "Módulo 4" },
+	{ link: "/aws/fifth-module", titleLink: "Módulo 5" },
+	{ link: "/aws/sixth-module", titleLink: "Módulo 6" },
+	{ link: "/aws/seventh-module", titleLink: "Módulo 7" },
+	{ link: "/aws/eight-module", titleLink: "Módulo 8" },
+	{ link: "/aws/ninth-module", titleLink: "Módulo 9" },
+	{ link: "/aws/tenth-module", titleLink: "Módulo 10" },
+	{ link: "/aws/eleventh-module", titleLink: "Módulo 11" },
 ];
 
 export const TSO_LIST = [
